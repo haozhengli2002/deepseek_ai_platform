@@ -61,17 +61,17 @@
 
 ```
 deepseek_ai_platform
-├──backend/
+├── backend/
 │		├── app.py
 │		├── auth.py
 │		├── chat.py
 │		├── db.py
 │		└── models/
 │   			└── user.py
-└──frontend
-	├──public/
+└── frontend/
+	├── public/
 	│	├── favicon.png
-	├──src/
+	├── src/
 	│	├── App.vue
 	│	├── api/
 	│	│   	└── api.js
