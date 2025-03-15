@@ -81,10 +81,10 @@ deepseek_ai_platform
 	│	├── router/
 	│	│   	└── index.js
 	│	└── views/
-    │			├── Chat.vue
-    │			├── Login.vue
-    │			└── Register.vue
-    └── index.html
+        │		├── Chat.vue
+        │		├── Login.vue
+        │		└── Register.vue
+        └── index.html
 ```
 
 ## 前端依赖关系图
